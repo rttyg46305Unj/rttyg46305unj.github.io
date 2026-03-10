@@ -1,1 +1,1 @@
-{"help":"Prints this help thing.","c":"Prints \"CATCH\"","image":"Gives you a random image. Uses Lorem Picsum.","test":"Prints \"test 123!!!\"","js":"Runs sandboxed javascript and outputs it.","cmds":"Prints all commands IRC style."}
+{"help":"Prints this help thing.","c":"Prints \"CATCH\"","image":"Gives you a random image. Uses Lorem Picsum.","test":"Prints \"test 123!!!\"","js":"Runs sandboxed javascript and outputs it.","cmds":"Prints all commands IRC style.","delay":"Prints the maximum delay before reading the latest message."}
