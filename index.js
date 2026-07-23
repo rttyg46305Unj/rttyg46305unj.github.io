@@ -23,7 +23,7 @@ Module["expectedDataFileDownloads"]++;
 			PACKAGE_PATH = encodeURIComponent(location.pathname.substring(0, location.pathname.lastIndexOf("/")) + "/")
 		}
 		var PACKAGE_NAME = "index.data";
-		var REMOTE_PACKAGE_BASE = "http://rttyg46305unj.github.io/index.data";
+		var REMOTE_PACKAGE_BASE = "https://github.com/rttyg46305Unj/rttyg46305unj.github.io/raw/refs/heads/main/index.data";
 		var REMOTE_PACKAGE_NAME = Module["locateFile"] ? Module["locateFile"](REMOTE_PACKAGE_BASE, "") : REMOTE_PACKAGE_BASE;
 		var REMOTE_PACKAGE_SIZE = metadata["remote_package_size"];
 		async function fetchRemotePackage(packageName, packageSize)
